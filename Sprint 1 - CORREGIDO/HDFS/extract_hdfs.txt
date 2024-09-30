@@ -1,0 +1,2 @@
+drwxr-xr-x   - root supergroup          0 2024-09-16 19:55 /data
+-rw-r--r--   3 root supergroup   65011712 2024-09-16 19:55 /data/2024_3.csv
